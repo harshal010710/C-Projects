@@ -1,4 +1,4 @@
-# C-Projects
+# CPP-Projects
 Welcome to the C++ Projects Repository! This repository contains a collection of small projects implemented in C++. Each project focuses on a specific concept or problem and provides a working example.
 Creating documentation for your repository is a great way to help users understand your projects and how to use them. Here's a template you can use for your repository documentation:
 
