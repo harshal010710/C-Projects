@@ -169,13 +169,3 @@ void Form:: ForgotPassword()
 	file.close();
 }
 
-
-/*
-	harshal03
-	hp@gmail.com
-	890
-
-	neha10
-	nd@gmail.com
-	123
-*/
