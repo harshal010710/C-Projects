@@ -1,5 +1,3 @@
-To create proper documentation for your mini project before pushing it to GitHub, you'll want to include information about what the project does, how to use it, its structure, and any other relevant details. Here's a basic outline you can follow:
-
 ### Project Title
 Mini User Authentication System
 
